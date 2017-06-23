@@ -1,6 +1,6 @@
 +++
-title: "{{ replace .TranslationBaseName "-" " " | title }}"
-date: {{ .Date }}
+title = "{{ replace .TranslationBaseName "-" " " | title }}"
+date = "{{ .Date }}"
 slug = ""
 tags = ["blog"]
 categories = ["blog"]
