@@ -1,10 +1,8 @@
 +++
-title: "About Me"
-date: 2017-06-23T03:50:01Z
-slug = ""
-tags = []
-categories = []
+date = "2017-06-23T03:50:01Z"
+title = "About Me"
 +++
+
 Hello and welcome!
 
 ## A Bit About Me
